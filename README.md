@@ -1,2 +1,2 @@
 # HWKIOSK_JAVA
-This Program was HW of OOP class in our uni. 
+2019 울산대학교 IT융합전공 객체지향 프로그램 Term Project
